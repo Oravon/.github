@@ -12,7 +12,9 @@ jobs:
       pull-requests: write
     steps:
     - name: 'Auto-assign issue'
-      uses: pozil/auto-assign-issue@v1
+      # v4.0.1, pinned by commit. v1 only understood issue events and failed on
+      # every pull_request ("Couldn't find issue info in current context").
+      uses: pozil/auto-assign-issue@af6beea6bdf1e8eb373f061c5bc168681fc6d011
       with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           assignees: ahmedshabtah
