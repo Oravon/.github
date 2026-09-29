@@ -26,9 +26,9 @@ Our mission is to enable what matters: helping people understand their next step
 
 We build for informed decisions, with people remaining accountable for the choices they make.
 
-**OIM — Intelligence Manager · IN DEVELOPMENT**
+**OIM — Intelligence Manager + Intelligence Models · BOTH IN DEVELOPMENT**
 
-Our Intelligence Manager product is in development. Product details and availability follow the information published for each release.
+OIM brings together Intelligence Manager and Intelligence Models. Both are in development. For OIM Version 1, the confirmed names are **Barq / Razin / Shams**, and the confirmed effort labels are **B / A / S / SS / SSS**. Product details and availability follow the information published for each release.
 
 ## How we work
 
@@ -60,9 +60,9 @@ OZLILI شركة تكنولوجيا وبرمجيات. بنبني وبنشغّل �
 
 للمؤسسة اللي عايزة تربط احتياجات الشغل بقدرات فريقها. بيجمع رؤية القوى العاملة والتوظيف والأداء والتسليم، عشان القرارات تبقى أوضح والمسؤولية تفضل عند الناس.
 
-**OIM — Intelligence Manager · قيد التطوير**
+**OIM — Intelligence Manager + Intelligence Models · كلاهما قيد التطوير**
 
-مدير الذكاء من منتجاتنا قيد التطوير. تفاصيله وإتاحته بتتحدد حسب المعلومات المنشورة لكل إصدار.
+OIM بيجمع مدير الذكاء ونماذج الذكاء، والاتنين قيد التطوير. الأسماء المؤكدة لـ **OIM Version 1** هي **Barq / Razin / Shams**، وتسميات مستويات الجهد المؤكدة هي **B / A / S / SS / SSS**. التفاصيل والإتاحة بتتحدد حسب المعلومات المنشورة لكل إصدار.
 
 بنبدأ من احتياج حقيقي، ونوضّح اللي اتأكدنا منه واللي لسه محتاج تحقق. إمكانيات المنتجات وإتاحتها بتختلف حسب الإصدار؛ التفاصيل الحالية موجودة على [موقع OZLILI](https://www.ozlili.com).
 
