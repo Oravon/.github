@@ -6,7 +6,7 @@
 
 **A clearer next step. A stronger team. Work that moves forward.**
 
-[Explore Ozlili](https://oravon.app) · [بالعربي](#بالعربي)
+[Explore Ozlili](https://www.ozlili.com) · [بالعربي](#بالعربي)
 
 </div>
 
@@ -38,7 +38,7 @@ Our Intelligence Manager product is in development. Product details and availabi
 
 **Connected foundations.** Build shared capabilities that support our products while keeping each product's purpose clear.
 
-Product capabilities and availability vary by release. See the [published product information](https://oravon.app) for current details.
+Product capabilities and availability vary by release. See the [published product information](https://www.ozlili.com) for current details.
 
 ---
 
@@ -64,7 +64,7 @@ Ozlili شركة تكنولوجيا وبرمجيات. بنبني وبنشغّل �
 
 مدير الذكاء من منتجاتنا قيد التطوير. تفاصيله وإتاحته بتتحدد حسب المعلومات المنشورة لكل إصدار.
 
-بنبدأ من احتياج حقيقي، ونوضّح اللي اتأكدنا منه واللي لسه محتاج تحقق. إمكانيات المنتجات وإتاحتها بتختلف حسب الإصدار؛ التفاصيل الحالية موجودة على [موقع Ozlili](https://oravon.app).
+بنبدأ من احتياج حقيقي، ونوضّح اللي اتأكدنا منه واللي لسه محتاج تحقق. إمكانيات المنتجات وإتاحتها بتختلف حسب الإصدار؛ التفاصيل الحالية موجودة على [موقع Ozlili](https://www.ozlili.com).
 
 </div>
 
@@ -74,6 +74,6 @@ Ozlili شركة تكنولوجيا وبرمجيات. بنبني وبنشغّل �
 
 **Ozlili — Enabling What Matters.**
 
-[oravon.app](https://oravon.app)
+[www.ozlili.com](https://www.ozlili.com)
 
 </div>
