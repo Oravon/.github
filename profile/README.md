@@ -1,18 +1,18 @@
 <div align="center">
 
-# Ozlili
+# OZLILI
 
 ### Enabling What Matters.
 
 **A clearer next step. A stronger team. Work that moves forward.**
 
-[Explore Ozlili](https://www.ozlili.com) · [بالعربي](#بالعربي)
+[Explore OZLILI](https://www.ozlili.com) · [بالعربي](#بالعربي)
 
 </div>
 
 ---
 
-Ozlili is a **technology and software company**. We build and operate our own products, platforms and enterprise systems on one shared foundation.
+OZLILI is a **technology and software company**. We build and operate our own products, platforms and enterprise systems on one shared foundation.
 
 Our mission is to enable what matters: helping people understand their next step and helping organizations connect capability, opportunity and delivery.
 
@@ -46,11 +46,11 @@ Product capabilities and availability vary by release. See the [published produc
 
 ## بالعربي
 
-### Ozlili — بنمكّن اللي يهم.
+### OZLILI — بنمكّن اللي يهم.
 
 **خطوتك الجاية أوضح. فريقك أقوى. وشغلك بيتقدّم.**
 
-Ozlili شركة تكنولوجيا وبرمجيات. بنبني وبنشغّل منتجاتنا ومنصاتنا وأنظمة الأعمال بتاعتنا على أساس مشترك، بهدف واحد: نساعد الناس والمؤسسات يحوّلوا اللي يهمهم لخطوات واضحة وقرارات مبنية على معلومات.
+OZLILI شركة تكنولوجيا وبرمجيات. بنبني وبنشغّل منتجاتنا ومنصاتنا وأنظمة الأعمال بتاعتنا على أساس مشترك، بهدف واحد: نساعد الناس والمؤسسات يحوّلوا اللي يهمهم لخطوات واضحة وقرارات مبنية على معلومات.
 
 **OPI · Professional Intelligence — Professional**
 
@@ -64,7 +64,7 @@ Ozlili شركة تكنولوجيا وبرمجيات. بنبني وبنشغّل �
 
 مدير الذكاء من منتجاتنا قيد التطوير. تفاصيله وإتاحته بتتحدد حسب المعلومات المنشورة لكل إصدار.
 
-بنبدأ من احتياج حقيقي، ونوضّح اللي اتأكدنا منه واللي لسه محتاج تحقق. إمكانيات المنتجات وإتاحتها بتختلف حسب الإصدار؛ التفاصيل الحالية موجودة على [موقع Ozlili](https://www.ozlili.com).
+بنبدأ من احتياج حقيقي، ونوضّح اللي اتأكدنا منه واللي لسه محتاج تحقق. إمكانيات المنتجات وإتاحتها بتختلف حسب الإصدار؛ التفاصيل الحالية موجودة على [موقع OZLILI](https://www.ozlili.com).
 
 </div>
 
@@ -72,7 +72,7 @@ Ozlili شركة تكنولوجيا وبرمجيات. بنبني وبنشغّل �
 
 <div align="center">
 
-**Ozlili — Enabling What Matters.**
+**OZLILI — Enabling What Matters.**
 
 [www.ozlili.com](https://www.ozlili.com)
 
