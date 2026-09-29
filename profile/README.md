@@ -1,90 +1,79 @@
 <div align="center">
 
-# ORAVON
+# OZLILI
 
-### Professional Enablement Infrastructure
+### Enabling What Matters.
 
-**Understand Potential. Enable Progress.**
+**A clearer next step. A stronger team. Work that moves forward.**
 
-Building trusted infrastructure that helps individuals and organizations understand potential, develop capabilities, and make better professional decisions.
-
-🌐 https://oravon.app
+[Explore OZLILI](https://www.ozlili.com) · [بالعربي](#بالعربي)
 
 </div>
 
 ---
 
-## Our Mission
+OZLILI is a **technology and software company**. We build and operate our own products, platforms and enterprise systems on one shared foundation.
 
-Enable every person and every organization to make better professional decisions through trusted evidence and measurable progress.
+Our mission is to enable what matters: helping people understand their next step and helping organizations connect capability, opportunity and delivery.
 
----
+## Our products. One connected purpose.
 
-## Our Vision
+| For people | For organizations |
+| :--- | :--- |
+| **OPI · Professional Intelligence** | **OCI · Organization Intelligence** |
+| **Professional** connects growth with opportunity readiness. | **Organization** connects people and capability needs with the work to be delivered. |
+| Make goals clearer. Understand capabilities. Bring evidence to the next professional step. | Bring workforce, hiring, performance and delivery intelligence into a clearer view. |
 
-Build the global infrastructure for professional enablement.
+We build for informed decisions, with people remaining accountable for the choices they make.
 
----
+**OIM — Intelligence Manager · IN DEVELOPMENT**
 
-## What We Build
+Our Intelligence Manager product is in development. Product details and availability follow the information published for each release.
 
-ORAVON develops an integrated ecosystem powered by shared platform engines and connected products.
+## How we work
 
-### Current Platform
+**Useful by design.** Start with a real need and make the next action easier to understand.
 
-- 🚀 Professional Growth
-- 🎯 Opportunity Readiness
-- 🏢 Organization Development
+**Evidence before assertion.** Be clear about what is known, what is changing and what still needs to be verified.
 
-### Coming Soon
+**Connected foundations.** Build shared capabilities that support our products while keeping each product's purpose clear.
 
-- 📊 Performance Intelligence
-- 🌍 Talent Discovery
-
----
-
-## Principles
-
-- Trust before Technology
-- Evidence before Assumptions
-- Enablement before Automation
-- Shared Intelligence
-- Continuous Professional Growth
+Product capabilities and availability vary by release. See the [published product information](https://www.ozlili.com) for current details.
 
 ---
 
-## Technology
+<div dir="rtl">
 
-- TypeScript
-- Next.js
-- React
-- PostgreSQL
-- Supabase
+## بالعربي
 
----
+### OZLILI — بنمكّن اللي يهم.
 
-## Status
+**خطوتك الجاية أوضح. فريقك أقوى. وشغلك بيتقدّم.**
 
-**Internal Alpha**
+OZLILI شركة تكنولوجيا وبرمجيات. بنبني وبنشغّل منتجاتنا ومنصاتنا وأنظمة الأعمال بتاعتنا على أساس مشترك، بهدف واحد: نساعد الناس والمؤسسات يحوّلوا اللي يهمهم لخطوات واضحة وقرارات مبنية على معلومات.
 
-Core platform development is actively progressing toward the first public release.
+**OPI · Professional Intelligence — Professional**
 
----
+للفرد اللي عايز يفهم قدراته، يحدّد أهدافه، ويستعد لفرصته الجاية. بيربط النمو المهني بالاستعداد للفرص، مع أدلة تساعده يشوف تقدّمه بوضوح.
 
-## Philosophy
+**OCI · Organization Intelligence — Organization**
 
-> Technology alone does not create progress.
->
-> **Trusted decisions do.**
+للمؤسسة اللي عايزة تربط احتياجات الشغل بقدرات فريقها. بيجمع رؤية القوى العاملة والتوظيف والأداء والتسليم، عشان القرارات تبقى أوضح والمسؤولية تفضل عند الناس.
 
-ORAVON exists to help people and organizations understand potential, make better professional decisions, and continuously improve through trusted evidence.
+**OIM — Intelligence Manager · قيد التطوير**
+
+مدير الذكاء من منتجاتنا قيد التطوير. تفاصيله وإتاحته بتتحدد حسب المعلومات المنشورة لكل إصدار.
+
+بنبدأ من احتياج حقيقي، ونوضّح اللي اتأكدنا منه واللي لسه محتاج تحقق. إمكانيات المنتجات وإتاحتها بتختلف حسب الإصدار؛ التفاصيل الحالية موجودة على [موقع OZLILI](https://www.ozlili.com).
+
+</div>
 
 ---
 
 <div align="center">
 
-### Building the Future of Professional Enablement
+**OZLILI — Enabling What Matters.**
 
-© ORAVON
+[www.ozlili.com](https://www.ozlili.com)
 
 </div>
