@@ -77,4 +77,3 @@ Ozlili شركة تكنولوجيا وبرمجيات. بنبني وبنشغّل �
 [oravon.app](https://oravon.app)
 
 </div>
-
